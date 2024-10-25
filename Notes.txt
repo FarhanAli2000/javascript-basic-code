@@ -1,0 +1,6 @@
+  --------JavaScript Basic Course Outline---------
+->let, var and const
+->Datatypes
+->conversion Operation
+->Comparison of datatypes
+->datatypes-summary
